@@ -1,0 +1,37 @@
+[
+  {
+    "repository": "SlimRoms/device_htc_msm8960-common",
+    "target_path": "device/htc/msm8960-common",
+    "branch":      "jb4.3"
+  },
+  {
+    "repository": "SlimRoms/device_htc_m7-common",
+    "target_path": "device/htc/m7-common",
+    "branch":      "jb4.3"
+  },
+  {
+    "repository": "SlimRoms/kernel_htc_m7",
+    "target_path": "kernel/htc/m7",
+    "branch":      "jb4.3"
+  },
+  {
+    "repository": "SlimRoms/proprietary_vendor_htc",
+    "target_path": "vendor/htc",
+    "branch":      "jb4.3"
+  },
+  {
+    "repository":  "SlimRoms/hardware_qcom_audio-caf",
+    "target_path": "hardware/qcom/audio-caf",
+    "branch":      "jb4.3"
+  },
+  {
+    "repository":  "SlimRoms/hardware_qcom_display-caf",
+    "target_path": "hardware/qcom/display-caf",
+    "branch":      "jb4.3"
+  },
+  {
+    "repository":  "SlimRoms/hardware_qcom_media-caf",
+    "target_path": "hardware/qcom/media-caf",
+    "branch":      "jb4.3"
+  }
+]
