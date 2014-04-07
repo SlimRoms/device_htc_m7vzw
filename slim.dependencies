@@ -34,4 +34,9 @@
     "target_path": "hardware/qcom/media-caf",
     "branch":      "kk4.4"
   }
+  {
+    "repository": "SlimRoms/device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch":      "kk4.4"
+  }
 ]
