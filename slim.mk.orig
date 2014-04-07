@@ -1,8 +1,12 @@
-$(call inherit-product, vendor/slim/config/common_full_phone.mk)
+$(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 $(call inherit-product, vendor/slim/config/nfc_enhanced.mk)
 
+<<<<<<< HEAD:slim.mk
+$(call inherit-product, vendor/slim/config/common_full_phone.mk)
+=======
 $(call inherit-product, device/htc/m7vzw/full_m7vzw.mk)
+>>>>>>> e64312f... m7vzw: Change inherit order:cm.mk
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=HTCOneVZW \
