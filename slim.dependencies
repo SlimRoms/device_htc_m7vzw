@@ -11,7 +11,7 @@
   },
   {
     "repository": "SlimRoms/kernel_htc_msm8960",
-    "target_path": "kernel/htc/msm8960"
+    "target_path": "kernel/htc/msm8960",
     "branch":      "kk4.4"
   },
   {
