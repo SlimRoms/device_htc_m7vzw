@@ -2,21 +2,21 @@
   {
     "repository": "SlimRoms/device_htc_msm8960-common",
     "target_path": "device/htc/msm8960-common",
-    "branch":      "lp5.0"
+    "branch":      "lp5.1"
   },
   {
     "repository": "SlimRoms/device_htc_m7-common",
     "target_path": "device/htc/m7-common",
-    "branch":      "lp5.0"
+    "branch":      "lp5.1"
   },
   {
     "repository": "SlimRoms/kernel_htc_msm8960",
     "target_path": "kernel/htc/msm8960",
-    "branch":      "lp5.0"
+    "branch":      "lp5.1"
   },
   {
     "repository": "SlimRoms/device_qcom_common",
     "target_path": "device/qcom/common",
-    "branch":      "lp5.0"
+    "branch":      "lp5.1"
   }
 ]
