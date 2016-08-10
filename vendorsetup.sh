@@ -1,2 +1,0 @@
-add_lunch_combo slim_m7vzw-userdebug
-add_lunch_combo slim_m7vzw-eng
